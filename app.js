@@ -23,9 +23,10 @@ $.getJSON("https://spreadsheets.google.com/feeds/list/15s9NJJvoPzrygimu0nR2VVOZQ
         '<td>'+set2+'</td>'+
         '<td>'+setTb+'</td>'+
         '<td>'+ozelDurum+'</td>'+
-        '<td>'+kazanan+'</td>'+
+        '<td style="font-weight: bold;">'+kazanan+'</td>'+
         '</tr>'
         );
 
     }
   });
+
